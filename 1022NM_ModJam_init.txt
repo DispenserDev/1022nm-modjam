@@ -21,7 +21,7 @@ e = campaignTrail_temp;
 bannerlist=["https://cdn.discordapp.com/attachments/1132208776032833566/1187957150853632010/image.png", "https://cdn.discordapp.com/attachments/1132208776032833566/1187959376972087358/image.png", "https://cdn.discordapp.com/attachments/1132208776032833566/1187959713871175700/image.png"]
 document.getElementById("header").src = bannerlist[Math.floor((Math.random() * bannerlist.length))] 
 
-quotes = ["“Whom the princesses would destroy, they first drive mad.” - Equestrian proverb","“I volunteer to be shipped with Trixie!” - Pen Doodle","Freedom aint free nor in Everfree!","“Oh, sweet merciful Celestia, not another one!” - Dotted Line",]
+quotes = ["I've never met a nice South Zebrican!","“I volunteer to be shipped with Trixie!” - Pen Doodle","Freedom aint free nor in Everfree!","“Oh, sweet merciful Celestia, not another one!” - Dotted Line",]
 customquote = quotes[Math.floor((Math.random() * quotes.length))]
 
 corrr=`\n<h2>New Campaign Trail: Mod Jam Edition!</h2><font id='wittyquote' size='4' color='white'><em>`+customquote+`</em></font>`
