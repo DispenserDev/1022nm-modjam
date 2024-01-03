@@ -1,3 +1,5 @@
+//The code loads in Nader-Laduke
+
 e = campaignTrail_temp;
 
             nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#2e0345";
